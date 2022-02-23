@@ -8,7 +8,7 @@
 	  <en>Demo Taiwan CDC</en>
 	  <nl>Demo 臺灣CDC</nl>
   </ShortName>
-  <SchemeManager>irma-tw</SchemeManager>
+  <SchemeManager>irma-demo-tw</SchemeManager>
   <ContactAddress>Demo address</ContactAddress>
   <ContactEMail>democdc@example.com</ContactEMail>
 </Issuer>

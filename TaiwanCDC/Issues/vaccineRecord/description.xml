@@ -7,7 +7,7 @@
         <en>Vaccine Record</en>
         <zh>疫苗接種紀錄</zh>
     </ShortName>
-    <SchemeManager>irma-tw</SchemeManager>
+    <SchemeManager>irma-demo-tw</SchemeManager>
     <IssuerID>TaiwanCDC</IssuerID>
     <CredentialID>vaccineRecord</CredentialID>
     <Description>
