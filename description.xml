@@ -3,8 +3,8 @@
 	<Url>https://jlev.in/schememanager/irma-tw</Url>
 	<Demo>true</Demo>
 	<Name>
-		<en>DEMO IRMA Taiwan</en>
-		<zh>DEMO IRMA 臺灣</zh>
+		<en>Demo IRMA Taiwan</en>
+		<zh>Demo IRMA 臺灣</zh>
 	</Name>
 	<Description>
 		<en>Demo credentials within the IRMA domain</en>

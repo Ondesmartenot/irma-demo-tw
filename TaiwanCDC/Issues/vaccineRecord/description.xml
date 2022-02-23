@@ -1,11 +1,11 @@
 <IssueSpecification version="4">
     <Name>
-        <en>Covid-19 Vaccination Record</en>
-	<zh>Covid-19 疫苗接種紀錄</zh>
+        <en>Demo Covid-19 Vaccination Record</en>
+	<zh>Demo Covid-19 疫苗接種紀錄</zh>
     </Name>
     <ShortName>
-        <en>Vaccine Record</en>
-        <zh>疫苗接種紀錄</zh>
+        <en>Demo Vaccine Record</en>
+        <zh>Demo 疫苗接種紀錄</zh>
     </ShortName>
     <SchemeManager>irma-demo-tw</SchemeManager>
     <IssuerID>TaiwanCDC</IssuerID>
