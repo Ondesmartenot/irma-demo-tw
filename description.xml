@@ -1,0 +1,15 @@
+<SchemeManager version="7">
+	<Id>irma-tw</Id>
+	<Url>https://jlev.in/schememanager/irma-tw</Url>
+	<Demo>true</Demo>
+	<Name>
+		<en>IRMA Taiwan</en>
+		<zh>IRMA 臺灣</zh>
+	</Name>
+	<Description>
+		<en>Demo credentials within the IRMA domain</en>
+		<nl></nl>
+	</Description>
+	<TimestampServer>https://keyshare.privacybydesign.foundation/atumd/</TimestampServer>
+	<Contact>https://privacybydesign.foundation/</Contact>
+</SchemeManager>
