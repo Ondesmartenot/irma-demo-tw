@@ -1,0 +1,66 @@
+<IssueSpecification version="4">
+	<Name>
+		<en>Demo Email address</en>
+		<zh></zh>
+	</Name>
+	<ShortName>
+		<en>Demo Email</en>
+		<zh></zh>
+	</ShortName>
+	<SchemeManager>irma-demo-tw</SchemeManager>
+	<IssuerID>TaiwanCDC</IssuerID>
+	<CredentialID>email</CredentialID>
+	<DeprecatedSince>1606694400</DeprecatedSince>
+	<Description>
+		<en>Your verified email address</en>
+		<zh></zh>
+	</Description>
+	<ShouldBeSingleton>false</ShouldBeSingleton>
+
+	<ForegroundColor>#15222E</ForegroundColor>
+	<BackgroundGradientStart>#3BB992</BackgroundGradientStart>
+	<BackgroundGradientEnd>#6CE6C1</BackgroundGradientEnd>
+	<Category>
+		<en>Personal</en>
+		<zh></zh>
+	</Category>
+	<FAQIntro>
+		<en>Add your email address to your IRMA app. You can add multiple email addresses.</en>
+		<zh></zh>
+	</FAQIntro>
+	<FAQPurpose>
+		<en>With your email address in your IRMA app, you can show that this address is really yours. For instance, you can use your email address to fill in a line in a form, or to login at a website.</en>
+		<zh></zh>
+	</FAQPurpose>
+	<FAQContent>
+		<en>You will add the following data:\n• email address\n• email domain name.</en>
+		<zh></zh>
+	</FAQContent>
+	<FAQHowto>
+		<en>Complete the following steps.\n1. Enter your e-mail address.\n2. Open your email application and go to your Inbox (if there is no new mail soon, please check your Spam folder).\n3. Click the link in the email message, sent by the Privacy by Design Foundation. If you see a QR code on your computer screen, scan it with the QR scanner in your IRMA app. The Privacy by Design Foundation copies your email data into your IRMA app.\n\nYou now receive a card with your email address and its domain name in your IRMA app. Repeat this process for other email addresses that you wish to add.</en>
+		<zh></zh>
+	</FAQHowto>
+
+	<Attributes>
+		<Attribute id="email">
+			<Name>
+				<en>Email address</en>
+				<zh></zh>
+			</Name>
+			<Description>
+				<en>Your verified email address</en>
+				<zh></zh>
+			</Description>
+		</Attribute>
+		<Attribute id="domain" optional="true">
+			<Name>
+				<en>Email domain name</en>
+				<zh></zh>
+			</Name>
+			<Description>
+				<en>The domain name of your email address</en>
+				<zh></zh>
+			</Description>
+		</Attribute>
+	</Attributes>
+</IssueSpecification>
