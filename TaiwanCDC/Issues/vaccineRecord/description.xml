@@ -21,6 +21,26 @@
     <ShouldBeSingleton>true</ShouldBeSingleton>
 
     <Attributes>
+	<Attribute id="name">
+            <Name>
+                <en>Your Name</en>
+                <zh></zh>
+            </Name>
+            <Description>
+                <en></en>
+                <zh></zh>
+            </Description>
+        </Attribute>
+	<Attribute id="id-number">
+            <Name>
+                <en>Your passport or UID number</en>
+                <zh></zh>
+            </Name>
+            <Description>
+                <en></en>
+                <zh></zh>
+            </Description>
+        </Attribute>
         <Attribute id="covid-19-fully-vaxxed" displayHint="yesno">
             <Name>
                 <en>Fully vaccinated against Covid-19</en>
